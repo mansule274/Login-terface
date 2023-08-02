@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-weight: 300;
+    font-size: 1.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* margin: auto; */
+    background-color:  #2196f3;
+    background-position: center;
+    background-size: cover;
+    margin-top: 2rem;
+}
+
+main{
+    margin: auto;
+    width: 30%;
+    height: 50vh;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 100px 30px;
+    /* display: flex; */
+    /* flex-direction: column; */
+   
+}
